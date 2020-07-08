@@ -74,6 +74,7 @@ function timeCounting() {
 
 function timeOut() {
     clearInterval(myTime);
+    end = true
 }
 
 function same() {
